@@ -3,9 +3,10 @@
 > A Pen created on CodePen.io. Original URL:
 
 
-## Live Demo [https://codepen.io/Pirci/pen/ZEYNmeE]
+## Live Demo 
 
-(https://codepen.io/Pirci/pen/ZEYNmeE).
+Preview: https://codepen.io/Pirci/pen/ZEYNmeE
+
 
 
 ![landing-page](img/demo.gif)
