@@ -1,13 +1,10 @@
 ### FCC: Product Landing Page
 
-> A Pen created on CodePen.io. Original URL:
+> A Pen created on CodePen.io.
 
-
-## Live Demo 
+## Live Demo
 
 Preview: https://codepen.io/Pirci/pen/ZEYNmeE
-
-
 
 ![landing-page](img/demo.gif)
 
@@ -20,4 +17,3 @@ Preview: https://codepen.io/Pirci/pen/ZEYNmeE
 ## Possible Improvements
 
 > Any type of suggestions/improvements to this repo are always welcome.
-
