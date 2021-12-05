@@ -137,7 +137,7 @@ nav > ul {
 }
 
 #hero > h2 {
-  margin-bottom: 20px;
+  margin-bottom: 15px;
   word-wrap: break-word;
 }
 
@@ -151,7 +151,7 @@ nav > ul {
   max-width: 150px;
   width: 100%;
   height: 30px;
-  margin: 15px 0;
+  margin: 20px 0;
   border: 0;
   background-color: #f1c40f;
 }
